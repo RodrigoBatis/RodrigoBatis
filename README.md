@@ -1,6 +1,7 @@
 <div align="center">olá !! 👋
 
 <div>
+  <img height="center" src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/3824/6bb823b2b56b7fb2ea0d303e8271e197c5f5b396.gif?1503417035"/>
   Sobre Mim
   
   💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
