@@ -1,7 +1,7 @@
 <div align="center">olá !! 👋
 <hr>
 <div>
-  <img height="center" src="https://d3q93wnyp4lkf8.cloudfront.net/revista/post_images/3824/6bb823b2b56b7fb2ea0d303e8271e197c5f5b396.gif?1503417035"/>
+  <img height="center" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif"/>
 </div>
 <div>
   Sobre Mim
