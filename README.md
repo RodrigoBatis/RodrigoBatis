@@ -20,7 +20,7 @@
   </div>
   <hr>
  
- ![Snake animation](https://github.com/RodrigoBatis/RodrigoBatis/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
