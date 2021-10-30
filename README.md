@@ -4,11 +4,11 @@
   <img height="center" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif"/>
 </div>
 <div>
-  Sobre Mim
+  <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">sobre mim <img
   
   💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
   
-  📖 estudando Java, HTML, CSS e JavaScript;
+  📖 estudando Java, HTML5, CSS3 e JavaScript;
   
   🌟 idade:16
   
@@ -17,7 +17,7 @@
     
     email: rodrigofreirebatista@gmail.com
     
-    cel: (11) 99600-7309
+    celular: (11) 99600-7309
   </div>  
   
   <hr>
