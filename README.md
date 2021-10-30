@@ -30,7 +30,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBatis&layout=compact&langs_count=7&theme=Winter is Coming "/>
   </div>
   <hr>
- 
+ ![Snake animation](https://github.com/RodrigoBatis/RodrigoBatis/blob/output/github-contribution-grid-snake.svg)
 
 
 
