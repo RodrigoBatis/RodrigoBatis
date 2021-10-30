@@ -3,8 +3,9 @@
 <div>
   <img height="center" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif"/>
 </div>
+  <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">sobre mim <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">                                                                                                                         
 <div>
-  <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">sobre mim <img
+  
   
   💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
   
@@ -18,6 +19,8 @@
     email: rodrigofreirebatista@gmail.com
     
     celular: (11) 99600-7309
+    
+    linkedin: Rodrigo Batista
   </div>  
   
   <hr>
