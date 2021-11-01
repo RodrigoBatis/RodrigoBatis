@@ -11,7 +11,7 @@
   🌟 idade: 16 🌟
   
   <div>
-  <img src="https://media.istockphoto.com/vectors/rainbow-star-border-with-sparkles-and-swirls-vector-id530543441?k=20&m=530543441&s=170667a&w=0&h=w9OBB3y8plMLb0C-zufnDe1_2HXLycX3449_nvTAt6o="width="30px">Estou estudando <img src="https://media.istockphoto.com/vectors/rainbow-star-border-with-sparkles-and-swirls-vector-id530543441?k=20&m=530543441&s=170667a&w=0&h=w9OBB3y8plMLb0C-zufnDe1_2HXLycX3449_nvTAt6o="width="30px">
+  <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">Estou estudando <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">
   </div>
     
  <div style="display: inline_block" align="center">
@@ -23,7 +23,7 @@
   </div>
   
   <div>
-  <img src="https://c.tenor.com/iqmKvSQeCPQAAAAd/diamond-neon-lights.gif"width="40px">Estou utilizando <img src="https://c.tenor.com/iqmKvSQeCPQAAAAd/diamond-neon-lights.gif"width="40px">
+  <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">Estou utilizando <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">
   </div>
   
   <div style="display: inline_block" align="center">
