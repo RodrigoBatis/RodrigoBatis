@@ -11,7 +11,7 @@
   🌟 idade: 16 🌟
   
   <div>
-  <img src="https://media.istockphoto.com/vectors/rainbow-star-border-with-sparkles-and-swirls-vector-id530543441?k=20&m=530543441&s=170667a&w=0&h=w9OBB3y8plMLb0C-zufnDe1_2HXLycX3449_nvTAt6o="width="40px">Estou estudando <img src="https://media.istockphoto.com/vectors/rainbow-star-border-with-sparkles-and-swirls-vector-id530543441?k=20&m=530543441&s=170667a&w=0&h=w9OBB3y8plMLb0C-zufnDe1_2HXLycX3449_nvTAt6o="width="40px">
+  <img src="https://media.istockphoto.com/vectors/rainbow-star-border-with-sparkles-and-swirls-vector-id530543441?k=20&m=530543441&s=170667a&w=0&h=w9OBB3y8plMLb0C-zufnDe1_2HXLycX3449_nvTAt6o="width="30px">Estou estudando <img src="https://media.istockphoto.com/vectors/rainbow-star-border-with-sparkles-and-swirls-vector-id530543441?k=20&m=530543441&s=170667a&w=0&h=w9OBB3y8plMLb0C-zufnDe1_2HXLycX3449_nvTAt6o="width="30px">
   </div>
     
  <div style="display: inline_block" align="center">
