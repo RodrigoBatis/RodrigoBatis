@@ -22,7 +22,7 @@
     linkedin: Rodrigo Batista
   </div>  
   <div>
-  <img height="center" src="https://i.gifer.com/origin/df/dfea5974d2e485361c64e94b5279ebd1.gif"/>
+  <img height="center" src="https://i.imgur.com/21JfEqK.gif"/>
   </div>
   <hr>
   <a href="https://github.com/RodrigoBatis">
