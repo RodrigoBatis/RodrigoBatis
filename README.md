@@ -42,7 +42,7 @@
     
     email: rodrigofreirebatista@gmail.com
     
-    celular: (11) 99600-7309
+    
     
     linkedin: Rodrigo Batista
   </div>  
