@@ -8,7 +8,7 @@
   
   💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
  
-  🌟 idade: 16 🌟
+  🌟 idade: 17 🌟
   
   <div>
   <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">Estou estudando <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">
