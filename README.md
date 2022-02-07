@@ -6,6 +6,8 @@
   </div>
   
   
+  💬Atualmente moro em Carapicuíba
+  
   💬 Atualmente cursando Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
   
   💬 Atualmente cursando 3 Ano do ensino médio na Escola Estadual Derville Allegretti
