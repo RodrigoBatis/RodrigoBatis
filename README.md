@@ -48,6 +48,7 @@
     Para contato
     
     email: rodrigofreirebatista@gmail.com
+    
     linkedin: Rodrigo Batista
     
   </div>  
