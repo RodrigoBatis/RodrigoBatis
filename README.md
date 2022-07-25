@@ -26,6 +26,7 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=%23F7DF1E])
   ![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=%23F7DF1E])
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   </div>
   
   <div>
@@ -43,7 +44,6 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     
 </div>
     
