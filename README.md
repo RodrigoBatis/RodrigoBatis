@@ -13,6 +13,8 @@
   💬 Conclui o curso Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
   
   💬 Ensino médio concluido na Escola Estadual Derville Allegretti de Carapicuíba
+  
+  💬 Cursando ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista)
  
   🌟 idade: 18 🌟
   
