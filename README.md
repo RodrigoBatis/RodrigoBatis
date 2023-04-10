@@ -67,8 +67,8 @@
   <img height="center" src="https://i.pinimg.com/originals/d0/66/00/d06600647ed14091607b3fe0833b99d0.gif"/>
   </div>
   <hr>
-  <a href="https://github.com/RodrigoBatis">
-  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBatis&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/>
+<!--   <a href="https://github.com/RodrigoBatis">
+  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBatis&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/> -->
   <a href="https://github.com/RodrigoBatis">
   <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBatis&layout=compact&langs_count=7&theme=radical"/>
   </div>
