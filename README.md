@@ -6,7 +6,7 @@
   </div>
   
   
-  💬 Atualmente moro em Carapicuíba
+
   
   💬 Conclui o curso de informática basica no Serviço Nacional de Aprendizagem Industria (SENAI-Osasco)
   
