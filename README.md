@@ -1,12 +1,10 @@
-<div align="center">Olá, me chamo Rodrigo Batista 👋
+<div align="center">
+  Olá, me chamo Rodrigo Batista 👋
 <hr>
 <div>
   <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">Sobre mim <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">                                                       
  
   </div>
-  
-  
-
   
   💬 Conclui o curso de informática basica no Serviço Nacional de Aprendizagem Industria (SENAI-Osasco)
   
@@ -54,23 +52,21 @@
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     
 </div>
-    
-  <div>
-    Para contato
-    
-    email: rodrigofreirebatista@gmail.com
-    
-    linkedin: Rodrigo Batista
-    
-  </div>  
+<div align="center"> 
+<h2>Para Contato<h2>
+<a href = "mailto:cmp.1a.rodrigofreirebatista@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rodrigo-batista-585286220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
   <div>
   <img height="center" src="https://i.pinimg.com/originals/d0/66/00/d06600647ed14091607b3fe0833b99d0.gif"/>
   </div>
   <hr>
-<!--   <a href="https://github.com/RodrigoBatis">
-  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBatis&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/> -->
+  
+  <a href="https://github.com/RodrigoBatis">
+  <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBatis&show_icons=true&theme=radical&include_all_commits=true&       count_private=true"/>
   <a href="https://github.com/RodrigoBatis">
   <img height="180em" width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBatis&layout=compact&langs_count=7&theme=radical"/>
+    
   </div>
   <hr>
 
