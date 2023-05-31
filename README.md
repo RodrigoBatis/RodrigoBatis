@@ -67,9 +67,9 @@
    <img height="180em" width="440em" src="https://github-readme-stats.vercel.app/api?username=RodrigoBatis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoBatis&layout=compact&langs_count=7&theme=radical"/>
  </div>
-    ![snake gif](https://github.com/RodrigoBatis/RodrigoBatis/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
-  <hr>
+![snake gif](https://github.com/RodrigoBatis/RodrigoBatis/blob/output/github-contribution-grid-snake.svg)
 
 
 
