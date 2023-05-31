@@ -69,8 +69,7 @@
  </div>
     
   </div>
-<!-- ![snake gif](https://github.com/RodrigoBatis/RodrigoBatis/blob/output/github-contribution-grid-snake.svg) -->
-![snake gif](https://github.com/marceloamellopaixao/marceloamellopaixao/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/RodrigoBatis/RodrigoBatis/blob/output/github-contribution-grid-snake.svg)
 
 
 
