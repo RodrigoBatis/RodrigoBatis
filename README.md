@@ -5,12 +5,12 @@
   <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">Sobre mim <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">                                                       
  
   </div>
+
+  💬 Ensino médio concluido na Escola Estadual Derville Allegretti de Carapicuíba
   
   💬 Conclui o curso de informática basica no Serviço Nacional de Aprendizagem Industria (SENAI-Osasco)
   
   💬 Conclui o curso Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira) 3/3
-  
-  💬 Ensino médio concluido na Escola Estadual Derville Allegretti de Carapicuíba
   
   💬 Cursando ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista) 1/4
  
