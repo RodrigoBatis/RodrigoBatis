@@ -8,11 +8,11 @@
   
   💬 Conclui o curso de informática basica no Serviço Nacional de Aprendizagem Industria (SENAI-Osasco)
   
-  💬 Conclui o curso Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira)
+  💬 Conclui o curso Técnico em Desenvolvimento de Sistemas no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira) 3/3
   
   💬 Ensino médio concluido na Escola Estadual Derville Allegretti de Carapicuíba
   
-  💬 Cursando ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista)
+  💬 Cursando ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista) 1/4
  
   🌟 idade: 18 🌟
   
