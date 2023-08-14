@@ -15,6 +15,8 @@
   💬 Cursando ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista) 1/4
  
   idade: 18y
+
+  Desenvolvedor Back-End
   
   <div>
   <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px"> Linguagens que possuo conhecimento <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">
