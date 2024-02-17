@@ -67,7 +67,7 @@
 <div align="center"> 
 <h2>Para Contato<h2>
 <a href = "mailto:cmp.1a.rodrigofreirebatista@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rodrigo-batista-585286220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="www.linkedin.com/in/rodrigo-freire-batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   <div>
   <img height="center" src="https://i.pinimg.com/originals/d0/66/00/d06600647ed14091607b3fe0833b99d0.gif"/>
