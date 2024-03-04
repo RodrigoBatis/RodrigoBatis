@@ -18,7 +18,7 @@
  
   idade: 19y
 
-  Desenvolvedor Full-stack
+  Desenvolvedor Full-stack JR
   
   <div>
   <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px"> Linguagens que possuo conhecimento <img src="https://static.wixstatic.com/media/fe57a9_c7d5a806498f45ebbb6384e0907e3006~mv2.gif"width="40px">
