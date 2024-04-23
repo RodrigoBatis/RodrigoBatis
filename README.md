@@ -6,7 +6,6 @@
  
   </div>
 
-  💬 Ensino médio concluido na Escola Estadual Derville Allegretti de Carapicuíba
   
   💬 Conclui o curso de informática basica no Serviço Nacional de Aprendizagem Industria (SENAI-Osasco)
   
