@@ -11,7 +11,7 @@
   
   💬 Conclui o curso TDS(Técnico em Desenvolvimento de Sistemas) no Serviço Nacional de Aprendizagem Industria (SENAI-Jandira) 3/3
   
-  💬 Conclui a graduação ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista) 4/4
+  💬 Graduado ADS(Análise e Desenvolvimento de Sistemas) na Faculdade de Informática e Administração Paulista (FIAP-Paulista) 4/4
 
   ALUNO FIAP
  
